@@ -1,3 +1,8 @@
-code{
+.code{
     color: aqua;
+}
+h2{
+    width: 200px;
+    color: red;
+    
 }
